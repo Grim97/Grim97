@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Grim97 💀
-- 👀 My github either remains dormant for some time(coz I'll be learning some stuffs) or gets updated often(being honest)
-- 🌱 I’m currently learning and practicing C++, Python, Linux and Embedded stuffs
-- 💞️ I’m looking to collaborate on mini projects(Automotive or embedded) and stuffs that need to be automated!
+- 👋 Hi, I’m Naveen. A Fanatic of the Grim 💀
+- 🌱 I work with C++, Python, Linux and Embedded stuffs.
+- 💞️ Open to collaborate on mini projects(more preferable towards Automotive or embedded related) and automation stuffs.
 
 
 <!---
