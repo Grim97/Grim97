@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen. A Fanatic of the Grim 💀
+- 👋 Hi, I’m Naveen.
 - 🌱 I work with C++, Python, Linux and Embedded stuffs.
 - 💞️ Open to collaborate on mini projects(more preferable towards Automotive or embedded related) and automation stuffs.
 
